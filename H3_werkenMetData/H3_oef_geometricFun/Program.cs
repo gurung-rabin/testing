@@ -22,6 +22,10 @@ namespace H3_oef_geometricFun
             Console.WriteLine($"cos2de {hoekInGraden}° is {naarCos:F4}");
             Console.WriteLine($"tan2de {hoekInGraden}° is {naarTan:F4}");
 
+            Console.WriteLine($"sin3de {hoekInGraden}° is {naarSin:F4}");
+            Console.WriteLine($"cos3de {hoekInGraden}° is {naarCos:F4}");
+            Console.WriteLine($"tan3de {hoekInGraden}° is {naarTan:F4}");
+
 
         }
     }
